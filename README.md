@@ -1,0 +1,2 @@
+# Tracker de vulnerabilidades equipos
+
