@@ -21,4 +21,4 @@ Este proyecto nació de la necesidad de auditar masivamente el estado de segurid
 Permite a los Gerentes de Seguridad pasar de una "reacción ante incidentes" a una "prevención basada en datos", identificando qué equipos necesitan parches de firmware urgentes.
 
 ---
-*Desarrollado por Félix Lezama - 2025*
+Desarrollado por Félix Lezama Mendoza - Project Manager Seguridad Electrónica & Automatización 2025.
